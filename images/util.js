@@ -1,0 +1,2 @@
+showMessage("Hello");
+alert("hello");
